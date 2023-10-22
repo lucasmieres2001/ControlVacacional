@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Created-By: Lucas Nahuel Mieres
+Main-Class: Bienvenida
+X-COMMENT: Control Vacacional
+
+
